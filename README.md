@@ -21,7 +21,7 @@ In image all the different signals are different nodes or points on which we mea
 Here we have data of different patient's EEG and Spectrogram files in the format of parquet files, with their patient ID. We have a train.csv file to get the time stemps with EEG and spectrogram ID's to fetch from the patient's parquet file of EEG and spectrogram.
 
 #### Note:
-Due to space limitations I can not upload entire dataset as it is 25GB+ dataset. Hence I uploaded fraction of data with the csv file I created from the entire dataaset, named 'Neuro_Detect_train.csv'. I also provided code to extract data from the files to, for referemce. 
+Due to space limitations I can not upload entire dataset as it is 25GB+ dataset. Hence I uploaded fraction of data with the csv file I created from the entire dataaset, named 'Neuro_Detect_train.parquet'. I also provided code to extract data from the files to, for referemce. 
 
 
 # 
